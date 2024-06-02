@@ -1,0 +1,17 @@
+git init // inicializar el repositorio
+
+git add . //con espacio, agrega archivos al repositorio
+git status  // para conocer el estado
+git commit -m "comentario"
+
+
+echo "# repo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/rumich73/repo.git
+git push -u origin main
+
+la primera vez, va: git push --set-upstream origin master
+después solo: git push
