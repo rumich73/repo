@@ -1,0 +1,18 @@
+car // devuelve el primer elemento de la lista
+cdr // devuelve el resto de la lista, menos el primer elemento
+cadr // devuelve el segundo, o sea el primero del resto
+
+
+(setq mylist '(10 20 30 40 50)) // asi se declara una lista
+
+(setq nth-element (nth n mylist)) // nth recupera el elemento enesimo de una lista
+
+(setq milista (list 1 2 3))
+
+(append milista (list 4)) --- (1 2 3 4)
+
+entsel // para seleccionar un elemento, devuelve el id del elemento y las coordenadas
+entget // devuelve una lista dxf de un elemento de AutoCAD
+
+
+(entget(car(entsel))) // entsel pide seleccionar una entidad, car devuelve el id de la entidad, entget devuelve la lista dxf

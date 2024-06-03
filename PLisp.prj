@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] PLisp saved to:[f:\Proyectos] at:[6/2/2024]
+(VLISP-PROJECT-LIST 
+  :NAME
+  PLisp
+  :OWN-LIST
+  nil
+  :FAS-DIRECTORY
+  nil
+  :TMP-DIRECTORY
+  nil
+  :PROJECT-KEYS
+  (:BUILD (:standard))
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF

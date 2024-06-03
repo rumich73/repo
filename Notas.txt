@@ -1,3 +1,14 @@
 https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-5-escritura-de-funciones-con-variables/
 
 https://github.com/
+
+
+5
+https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-5-escritura-de-funciones-con-variables/
+6
+https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-6-listas-y-operaciones-con-listas/
+7
+https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-7-acceso-a-listas-y-operaciones-con-variables-ejemplos-practicos/
+
+9
+https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-9-ejercicio-2/

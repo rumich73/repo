@@ -3,6 +3,7 @@ git init // inicializar el repositorio
 git add . //con espacio, agrega archivos al repositorio
 git status  // para conocer el estado
 git commit -m "comentario"
+git push
 
 
 echo "# repo" >> README.md
@@ -15,3 +16,15 @@ git push -u origin main
 
 la primera vez, va: git push --set-upstream origin master
 después solo: git push
+
+
+---------
+
+git pull // para bajar cambios
+
+git branch // muestra las ramas
+
+git branch nuevarama // crea una rama nueva
+
+git checkout nuevarama // cambia a la nueva rama
+
