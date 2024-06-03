@@ -9,10 +9,16 @@ cadr // devuelve el segundo, o sea el primero del resto
 
 (setq milista (list 1 2 3))
 
-(append milista (list 4)) --- (1 2 3 4)
+(append milista (list 4)) --> (1 2 3 4)
 
 entsel // para seleccionar un elemento, devuelve el id del elemento y las coordenadas
 entget // devuelve una lista dxf de un elemento de AutoCAD
 
 
 (entget(car(entsel))) // entsel pide seleccionar una entidad, car devuelve el id de la entidad, entget devuelve la lista dxf
+
+assoc // se utiliza para buscar un par clave-valor en una lista de asociación (una lista de listas, donde cada sublista contiene una clave y un valor). La función assoc toma una clave y una lista de asociación, y devuelve la sublista que contiene esa clave, si la encuentra. Si la clave no se encuentra, assoc devuelve nil.
+
+(setq mylist '((1 . "uno") (2 . "dos") (3 . "tres")))
+
+(assoc 2 mylist) --> (2 . "dos")

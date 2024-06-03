@@ -2,6 +2,10 @@ https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-5-es
 
 https://github.com/
 
+https://www.youtube.com/watch?v=AnLrX0hId7M&t=1060s
+
+https://help.autodesk.com/view/OARX/2025/ESP/?guid=GUID-3F0380A5-1C15-464D-BC66-2C5F094BCFB9
+
 
 5
 https://www.devcadlisp.com/autolispdev/aprende-a-programar-en-autolisp-post-5-escritura-de-funciones-con-variables/
