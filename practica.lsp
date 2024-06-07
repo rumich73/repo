@@ -52,7 +52,7 @@
   (setq Seleccion (ssget '((0 . "LINE"))))
   
   ;; Verificar si la selección no está vacía
-  (if Seleccion
+  (if Selecciongit
     (progn
       ;; Recorrer la selección y mostrar los puntos de inicio
       (setq i 0)

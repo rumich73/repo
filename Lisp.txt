@@ -22,3 +22,6 @@ assoc // se utiliza para buscar un par clave-valor en una lista de asociación (
 (setq mylist '((1 . "uno") (2 . "dos") (3 . "tres")))
 
 (assoc 2 mylist) --> (2 . "dos")
+
+
+En Autocad el radio del circulo es 40, el color es 62
